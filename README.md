@@ -1,4 +1,4 @@
-# Kitty Bot — Discord Treat & Combat Bot
+```# Kitty Bot — Discord Treat & Combat Bot
 
 import discord
 import json
@@ -345,3 +345,4 @@ async def on_ready():
     print(f"Logged in as {kitty.user}")
 
 kitty.run("[CENSORED]")
+```
